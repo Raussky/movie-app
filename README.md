@@ -1,6 +1,9 @@
 # React + Vite
 movie app
 
+welcome to git 
+
+this coming from dev rauan
 Heyoo everyone its dev arup
 
 arup here
