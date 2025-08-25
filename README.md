@@ -4,6 +4,9 @@ movie app
 welcome to git 
 
 this coming from dev rauan
+Heyoo everyone its dev arup
+
+arup here
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
